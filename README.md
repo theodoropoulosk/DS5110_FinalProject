@@ -14,6 +14,7 @@ While our early prediction models did not produce high accuracy, the project dem
 Instructions
 To run the data exploration and analysis section of this project, start by downloading the datasets from the following links:
 https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0009.6 
+
 https://cwfis.cfs.nrcan.gc.ca/datamart/download/nfdbpnt 
 
 Then, in order to merge the datasets, download the IPYNB file into Google Drive and place it alongside the datasets. 
