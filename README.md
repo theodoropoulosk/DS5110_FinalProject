@@ -12,6 +12,7 @@ Our goals were to:
 While our early prediction models did not produce high accuracy, the project demonstrates the importance of standardized wildfire data and provides a strong foundation for future modeling.
 
 Instructions
+
 To run the data exploration and analysis section of this project, start by downloading the datasets from the following links:
 https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0009.6 
 
