@@ -1,5 +1,6 @@
 # DS5110 - Final Project
 End-to-end data science project: Wildfire analysis and prediction using an SQL database and exploratory data analysis.
+
 By: Julian Baker & Konstantinos Theodoropoulos
 
 Project Overview
